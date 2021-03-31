@@ -1,7 +1,5 @@
 package com.shun.day03.abs
 
-import a.B
-
 /**
  * Author atguigu
  * Date 2020/3/4 16:28

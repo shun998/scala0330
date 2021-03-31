@@ -1,7 +1,5 @@
 package com.shun.day03.extt
 
-import a.B
-
 /**
  * Author atguigu
  * Date 2020/3/4 15:42

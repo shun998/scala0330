@@ -1,7 +1,5 @@
 package com.shun.day03.pack
 
-import com.atguigu.scalal1015.day03
-
 
 /**
  * Author atguigu

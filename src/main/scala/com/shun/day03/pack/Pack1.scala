@@ -11,7 +11,7 @@ package com.shun.day03.pack
 
 // 不想用HashMap(屏蔽HashMap), 其他都想用
 
-import java.util.{HashMap => _, _}
+import java.util.{HashMap => _}
 /**
  * Author atguigu
  * Date 2020/3/4 14:39
@@ -24,7 +24,6 @@ object Pack1 {
 class A{
 
 }
-class A
 
 /*
 scala也有包, 包的命名使用规则和java完全一样!!!

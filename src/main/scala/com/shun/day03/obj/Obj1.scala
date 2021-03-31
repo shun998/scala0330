@@ -1,6 +1,5 @@
 package com.shun.day03.obj
 
-import scala.annotation.meta.beanGetter
 import scala.beans.BeanProperty
 
 /**
