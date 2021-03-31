@@ -1,8 +1,8 @@
 package com.shun.day03.extt
 
 /**
- * Author atguigu
- * Date 2020/3/4 15:42
+ * Author layman
+ * Date 2021/3/4 15:42
  */
 object Extends2 {
     def main(args: Array[String]): Unit = {

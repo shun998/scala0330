@@ -1,8 +1,8 @@
 package com.shun.day04.implicitdemo
 
 /**
- * Author atguigu
- * Date 2020/3/6 15:25
+ * Author layman
+ * Date 2021/3/6 15:25
  */
 object A{
    /* implicit def b2a(b: B) = {

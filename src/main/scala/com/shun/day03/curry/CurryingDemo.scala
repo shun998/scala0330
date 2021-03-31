@@ -1,8 +1,8 @@
 package com.shun.day03.curry
 
 /**
- * Author atguigu
- * Date 2020/3/4 9:26
+ * Author layman
+ * Date 2021/3/4 9:26
  */
 object CurryingDemo {
     def main(args: Array[String]): Unit = {

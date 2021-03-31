@@ -1,8 +1,8 @@
 package com.shun.day03.abs
 
 /**
- * Author atguigu
- * Date 2020/3/4 16:28
+ * Author layman
+ * Date 2021/3/4 16:28
  */
 object Abs1 {
     def main(args: Array[String]): Unit = {

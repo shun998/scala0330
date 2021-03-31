@@ -21,7 +21,7 @@ aaaa
               |bb
               |ccc
               |""".stripMargin*/
-        val date = "2020-03-02"
+        val date = "2021-03-02"
         val s =
         s"""
           |select

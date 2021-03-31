@@ -1,8 +1,8 @@
 package com.shun.day03.modier
 
 /**
- * Author atguigu
- * Date 2020/3/4 15:21
+ * Author layman
+ * Date 2021/3/4 15:21
  */
 object Modifier1 {
     def main(args: Array[String]): Unit = {

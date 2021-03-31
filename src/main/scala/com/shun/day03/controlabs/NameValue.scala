@@ -1,8 +1,8 @@
 package com.shun.day03.controlabs
 
 /**
- * Author atguigu
- * Date 2020/3/4 10:27
+ * Author layman
+ * Date 2021/3/4 10:27
  */
 object NameValue {
     def main(args: Array[String]): Unit = {

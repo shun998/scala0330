@@ -1,8 +1,8 @@
 package com.shun.day03.mylazy
 
 /**
- * Author atguigu
- * Date 2020/3/4 11:07
+ * Author layman
+ * Date 2021/3/4 11:07
  */
 object LazyDemo {
     val a1 = { println("a1"); 10}

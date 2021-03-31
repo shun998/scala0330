@@ -3,8 +3,8 @@ package com.shun.day04.more
 import com.shun.day04.more.Season.Season
 
 /**
- * Author atguigu
- * Date 2020/3/6 11:35
+ * Author layman
+ * Date 2021/3/6 11:35
  */
 object Enum1 {
     def main(args: Array[String]): Unit = {

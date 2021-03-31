@@ -1,8 +1,8 @@
 package com.shun.day04.more
 
 /**
- * Author atguigu
- * Date 2020/3/6 11:28
+ * Author layman
+ * Date 2021/3/6 11:28
  */
 object More1 {
     def main(args: Array[String]): Unit = {

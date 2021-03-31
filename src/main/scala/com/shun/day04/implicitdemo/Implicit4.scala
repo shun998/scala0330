@@ -5,13 +5,13 @@ import java.io.File
 import scala.io.Source
 
 /**
- * Author atguigu
- * Date 2020/3/6 14:59
+ * Author layman
+ * Date 2021/3/6 14:59
  */
 object Implicit4 {
     def main(args: Array[String]): Unit = {
         
-        val content: String = new File("C:\\Users\\lzc\\Desktop\\class_code\\2019_10_15\\01_scala\\scala1015\\src\\main\\scala\\com\\atguigu\\scalal1015\\day04\\implicitdemo\\Implicit4.scala")
+        val content: String = new File("C:\\Users\\lzc\\Desktop\\class_code\\2019_10_15\\01_scala\\scala1015\\src\\main\\scala\\com\\layman\\scalal1015\\day04\\implicitdemo\\Implicit4.scala")
             .readContent
         println(content)
     }

@@ -1,8 +1,8 @@
 package com.shun.day04.implicitdemo
 
 /**
- * Author atguigu
- * Date 2020/3/6 13:33
+ * Author layman
+ * Date 2021/3/6 13:33
  */
 object Implicit1 {
     implicit def double2Int(d: Double) = d.toInt

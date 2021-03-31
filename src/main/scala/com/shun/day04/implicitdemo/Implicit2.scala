@@ -6,14 +6,14 @@ import scala.io.Source
 
 
 /**
- * Author atguigu
- * Date 2020/3/6 14:07
+ * Author layman
+ * Date 2021/3/6 14:07
  */
 object Implicit2 {
     def main(args: Array[String]): Unit = {
         implicit def file2RichFile(file: File): RichFile = new RichFile(file)
         
-        val content: String = new File("C:\\Users\\lzc\\Desktop\\class_code\\2019_10_15\\01_scala\\scala1015\\src\\main\\scala\\com\\atguigu\\scalal1015\\day04\\implicitdemo\\Implicit2.scala")
+        val content: String = new File("C:\\Users\\lzc\\Desktop\\class_code\\2019_10_15\\01_scala\\scala1015\\src\\main\\scala\\com\\layman\\scalal1015\\day04\\implicitdemo\\Implicit2.scala")
             .readContent
         println(content)
     }

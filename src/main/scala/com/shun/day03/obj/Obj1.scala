@@ -3,8 +3,8 @@ package com.shun.day03.obj
 import scala.beans.BeanProperty
 
 /**
- * Author atguigu
- * Date 2020/3/4 11:30
+ * Author layman
+ * Date 2021/3/4 11:30
  */
 object ObjDemo1 {
     def main(args: Array[String]): Unit = {

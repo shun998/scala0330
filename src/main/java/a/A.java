@@ -4,7 +4,7 @@ import scala.Predef;
 
 /**
  * @Author lzc
- * @Date 2020/3/2 11:57
+ * @Date 2021/3/2 11:57
  */
 public class A {
     public static int type = 100;

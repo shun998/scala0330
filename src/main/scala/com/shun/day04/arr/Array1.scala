@@ -1,8 +1,8 @@
 package com.shun.day04.arr
 
 /**
- * Author atguigu
- * Date 2020/3/6 16:40
+ * Author layman
+ * Date 2021/3/6 16:40
  */
 object Array1 {
     def main(args: Array[String]): Unit = {

@@ -1,8 +1,8 @@
 package com.shun.day04.implicitdemo
 
 /**
- * Author atguigu
- * Date 2020/3/6 15:09
+ * Author layman
+ * Date 2021/3/6 15:09
  */
 object Implicit5 {
     implicit val aa = 100

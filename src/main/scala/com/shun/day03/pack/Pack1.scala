@@ -13,8 +13,8 @@ package com.shun.day03.pack
 
 import java.util.{HashMap => _}
 /**
- * Author atguigu
- * Date 2020/3/4 14:39
+ * Author layman
+ * Date 2021/3/4 14:39
  */
 object Pack1 {
     def main(args: Array[String]): Unit = {
@@ -29,7 +29,7 @@ class A{
 scala也有包, 包的命名使用规则和java完全一样!!!
 
 1. 包的声明
-    1) package com.atguigu.scalal1015.day03.pack
+    1) package com.layman.scalal1015.day03.pack
     2) 包语句
         在scala'中, 一个 .scala文件中一般会写多个类.所有的类会默认在一个包中
         

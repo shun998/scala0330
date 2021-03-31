@@ -1,8 +1,8 @@
 package com.shun.day03.single
 
 /**
- * Author atguigu
- * Date 2020/3/4 16:43
+ * Author layman
+ * Date 2021/3/4 16:43
  */
 object Single1 {
     def main(args: Array[String]): Unit = {

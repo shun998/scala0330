@@ -3,8 +3,8 @@ package com.shun.day04.factory
 import scala.collection.mutable
 
 /**
- * Author atguigu
- * Date 2020/3/6 9:49
+ * Author layman
+ * Date 2021/3/6 9:49
  */
 object Factory1 {
     def main(args: Array[String]): Unit = {

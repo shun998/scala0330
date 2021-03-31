@@ -3,8 +3,8 @@ package com.shun.day03.recursive
 import scala.annotation.tailrec
 
 /**
- * Author atguigu
- * Date 2020/3/4 9:55
+ * Author layman
+ * Date 2021/3/4 9:55
  */
 object RecursiveDemo1 {
     def main(args: Array[String]): Unit = {
