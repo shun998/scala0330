@@ -3,7 +3,7 @@ package e;
 import java.util.Stack;
 
 /**
- * @Author lzc
+ * @Author layman
  * @Date 2021/3/7 11:32
  */
 public class StackDemo {
