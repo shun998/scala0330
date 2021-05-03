@@ -7,6 +7,17 @@
     <groupId>com.shun</groupId>
     <artifactId>scala0330</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <dependencies>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.54</version>
+        </dependency>
+        <dependency>
+            <groupId>org.json4s</groupId>
+            <artifactId>json4s-jackson_2.11</artifactId>
+            <version>3.2.11</version>
+        </dependency>
+    </dependencies>
 
 </project>

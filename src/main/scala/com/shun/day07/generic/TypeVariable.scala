@@ -40,7 +40,7 @@ object TypeVariable {
 
 
 /*
-泛型的型变:
+泛型的型变:Y
     不变 invariant
         [T]
         子类型的集合对象, 不能赋值给父类型的集合引用

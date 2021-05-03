@@ -7,9 +7,10 @@ package d;
 public class A {
     public int a = 10;
 
-    public void foo(){
+    public void foo() {
         System.out.println("A foo...");
     }
+
     public static void main(String[] args) {
         // 方法的多态
 //        A a = new B();
@@ -21,14 +22,15 @@ public class A {
         System.out.println(a.a); // 20 X  10√
     }
 }
-class B extends A{
+
+class B extends A {
     public int a = 20;
 
-    public void foo(){
+    public void foo() {
         System.out.println("B foo...");
     }
 
-    public void f(){
+    public void f() {
 
     }
 }
